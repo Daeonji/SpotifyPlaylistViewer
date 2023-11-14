@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fJTxkMlJ8RB+1CRYNYtTkXGHZcu7gcrkxZ8h2m8hbXUQ/w2MOIf14x/o7CCI3O/zq+y47Dc12ByQeFbu8SCAcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Eroguro\\source\\repos\\Spotify\\Spotify\\Spotify.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eroguro\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Eroguro\\.nuget\\packages\\restsharp\\107.1.2\\restsharp.107.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
